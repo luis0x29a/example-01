@@ -1,0 +1,10 @@
+#Los siguientes archivos se van a omitir
+
+#Archivo especifico por nombre
+example.*
+
+#Por extension de archivo
+.example
+
+#Por carpeta o nombre
+.env
