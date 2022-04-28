@@ -1,8 +1,8 @@
 # example-01
-Sigue las instrucciones
+Como continuacion del ejercicio_01
 
-Paso 1: Modificar el archivo .gitignore para ignorar los archivos con extension "test"
-Paso 2: El ejercicio consiste en crear una rama basada en esta con su nombre
-Paso 3: En la rama nueva crear un archivo con extension .test
-Paso 4: Crear un archivo .txt que contenga el siguiente texto "Hola mi nombre es: {nombre}"
-Paso 5: Subir su rama con sus respectivos cambios
+paso 1: Cambiarse a la rama de algun compañero
+paso 2: modificar el archivo .txt agregando su nombre en una nueva linea con el siguiente texto "Te saluda: {nombre}"
+paso 3: Subir los cambios
+paso 4: Mezclar la rama actual con la rama ejercicio_01
+paso 5: Eliminar la rama con su nombre
