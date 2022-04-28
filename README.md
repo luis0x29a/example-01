@@ -11,6 +11,6 @@ Sigue las instrucciones
 
 -Paso 5: Subir su rama con sus respectivos cambios
 
--Paso 6 Modificar el archivo .txt agregandole una linea nueva con el siguiente texto "Te saluda: {nombre}"
+-Paso 6 Modificar el archivo .gitignore para permitir que se suban archivos con extension "test"
 
 -Paso 7 Guardar el cambio en un stash
