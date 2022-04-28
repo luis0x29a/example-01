@@ -1,12 +1,14 @@
 # example-01
 Como continuacion del ejercicio_01
 
--paso 1: Cambiarse a la rama de algun compañero
+-Paso 1: Cambiarse a la rama de algun compañero
 
--paso 2: modificar el archivo .txt agregando su nombre en una nueva linea con el siguiente texto "Te saluda: {nombre}"
+-Paso 2: modificar el archivo .txt agregando su nombre en una nueva linea con el siguiente texto "Te saluda: {nombre}"
 
--paso 3: Subir los cambios
+-Paso 3: Aplicar el stash creado en el ejercicio_01
 
--paso 4: Mezclar la rama actual con la rama ejercicio_01
+-Paso 4: Subir los cambios
 
--paso 5: Eliminar la rama con su nombre
+-Paso 5: Mezclar la rama actual con la rama ejercicio_01
+
+-Paso 6: Eliminar la rama con su nombre
