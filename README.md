@@ -10,3 +10,7 @@ Sigue las instrucciones
 -Paso 4: Crear un archivo .txt que contenga el siguiente texto "Hola mi nombre es: {nombre}"
 
 -Paso 5: Subir su rama con sus respectivos cambios
+
+-Paso 6 Modificar el archivo .txt agregandole una linea nueva con el siguiente texto "Te saluda: {nombre}"
+
+-Paso 7 Guardar el cambio en un stash
